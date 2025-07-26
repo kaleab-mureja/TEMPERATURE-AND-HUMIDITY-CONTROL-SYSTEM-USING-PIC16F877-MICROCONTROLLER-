@@ -128,10 +128,6 @@ The core logic resides primarily in a `main.c` file. This file contains:
 
 Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request.
 
-## License
-
-This project is open-source and available under the [Choose a License, e.g., MIT License, Apache 2.0 License, etc.]. See the `LICENSE` file for more details.
-
 ## Acknowledgments
 
 * Addis Ababa Science and Technology University for resources.
